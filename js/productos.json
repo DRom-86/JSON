@@ -1,0 +1,72 @@
+[
+    {
+    "id":1,
+    "descripcion":"Acuarela escolar de 12 colores con un pincel de regalo",
+    "modelo":"Stick",
+    "Marca":"Filgo",
+    "precio":60,
+    "img":"../multimedia/acuarela_filgo.jpg"},
+    {
+    "id":2,
+    "descripcion":"Adhesivo vinilico 50gr",
+    "modelo":"Trick",
+    "Marca":"Sta",
+    "precio":20,
+    "img":"../multimedia/adhesivo_vinilico_sta.jpg"},
+    {
+    "id":3,
+    "descripcion":"Boligrafo con cuerpo triangular punta 1mm",
+    "modelo":"Trilix",
+    "Marca":"Faber Castell",
+    "precio":42,
+    "img":"../multimedia/boligrafo_faber_trilux.jpg"},
+    {
+    "id":4,
+    "descripcion":"Lapiz corrector punta metal 7mm",
+    "modelo":"Plash",
+    "Marca":"Filgo",
+    "precio":30,
+    "img":"../multimedia/corrector_filgo.jpg"},
+    {
+    "id":5,
+    "descripcion":"Crayones de seda x 12 corto",
+    "modelo":"plain",
+    "Marca":"Faber Castell",
+    "precio":70,
+    "img":"../multimedia/crayones_faber.png"},
+    {
+    "id":6,
+    "descripcion":"Marcador escolar x 10",
+    "modelo":"Mito",
+    "Marca":"Ezco",
+    "precio":130,
+    "img":"../multimedia/marcador_escolar_ezco.jpg"},
+    {
+    "id":7,
+    "descripcion":"Regla plastica flexible de 15cm",
+    "modelo":"Flex",
+    "Marca":"Maped",
+    "precio":45,
+    "img":"../multimedia/regla_maped15.jpg"},
+    {
+    "id":8,
+    "descripcion":"Goma Ultra Mini",
+    "modelo":"Technic",
+    "Marca":"Maped",
+    "precio":90,
+    "img":"../multimedia/goma_maped.jpg"},
+    {
+    "id":9,
+    "descripcion":"Lapiz grafito graduacion",
+    "modelo":"GoldFaber",
+    "Marca":"Faber Castell",
+    "precio":40,
+    "img":"../multimedia/lapiz_faber.png"},
+    {
+    "id":10,
+    "descripcion":"Resma A4 75gr 500hojas",
+    "modelo":"Autor",
+    "Marca":"Ledesma",
+    "precio":500,
+    "img":"../multimedia/resma_autor.png"}
+]
