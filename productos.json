@@ -5,7 +5,7 @@
     "modelo":"Stick",
     "marca":"Filgo",
     "precio":60,
-    "img":"../multimedia/acuarela_filgo.jpg",
+    "img":"./multimedia/acuarela_filgo.jpg",
     "cantidad":1},    
     {
     "id":2,
@@ -13,7 +13,7 @@
     "modelo":"Trick",
     "marca":"Sta",
     "precio":20,
-    "img":"../multimedia/adhesivo_vinilico_sta.jpg",
+    "img":"./multimedia/adhesivo_vinilico_sta.jpg",
     "cantidad":1},
     {
     "id":3,
@@ -21,7 +21,7 @@
     "modelo":"Trilix",
     "marca":"Faber Castell",
     "precio":42,
-    "img":"../multimedia/boligrafo_faber_trilux.jpg",
+    "img":"./multimedia/boligrafo_faber_trilux.jpg",
     "cantidad":1},
     {
     "id":4,
@@ -29,7 +29,7 @@
     "modelo":"Plash",
     "marca":"Filgo",
     "precio":30,
-    "img":"../multimedia/corrector_filgo.jpg",
+    "img":"./multimedia/corrector_filgo.jpg",
     "cantidad":1},
     {
     "id":5,
@@ -37,7 +37,7 @@
     "modelo":"plain",
     "Marca":"Faber Castell",
     "precio":70,
-    "img":"../multimedia/crayones_faber.png",
+    "img":"./multimedia/crayones_faber.png",
     "cantidad":1},
     {
     "id":6,
@@ -45,7 +45,7 @@
     "modelo":"Mito",
     "marca":"Ezco",
     "precio":130,
-    "img":"../multimedia/marcador_escolar_ezco.jpg",
+    "img":"./multimedia/marcador_escolar_ezco.jpg",
     "cantidad":1},
     {
     "id":7,
@@ -53,7 +53,7 @@
     "modelo":"Flex",
     "marca":"Maped",
     "precio":45,
-    "img":"../multimedia/regla_maped15.jpg",
+    "img":"./multimedia/regla_maped15.jpg",
     "cantidad":1},
     {
     "id":8,
@@ -61,7 +61,7 @@
     "modelo":"Technic",
     "marca":"Maped",
     "precio":90,
-    "img":"../multimedia/goma_maped.jpg",
+    "img":"./multimedia/goma_maped.jpg",
     "cantidad":1},
     {
     "id":9,
@@ -69,7 +69,7 @@
     "modelo":"GoldFaber",
     "marca":"Faber Castell",
     "precio":40,
-    "img":"../multimedia/lapiz_faber.png",
+    "img":"./multimedia/lapiz_faber.png",
     "cantidad":1},
     {
     "id":10,
@@ -77,6 +77,6 @@
     "modelo":"Autor",
     "marca":"Ledesma",
     "precio":500,
-    "img":"../multimedia/resma_autor.png",
+    "img":"./multimedia/resma_autor.png",
     "cantidad":1}
 ]
